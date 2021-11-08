@@ -1,0 +1,7 @@
+gym
+matplotlib
+numpy
+pillow
+pytest
+pygame
+tensorflow
